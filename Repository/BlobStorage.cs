@@ -119,7 +119,7 @@ namespace StorageAccount.Repository
         {
             try
             {
-                string path=@"C:\Users\vmadmin\Downloads\StorageAccount\Downloads"+blobName;
+                string path=@"C:\Users\vmadmin\Downloads\StorageAccount\Downloads\"+blobName;
                 BlobContainerClient container=new BlobContainerClient(connectionString,blobName);
                 BlobClient client=container.GetBlobClient(file);
                 await client.DownloadToAsync(path);
