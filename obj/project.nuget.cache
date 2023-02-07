@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R7GWOzDO2l7LECpVGePvBl9nDxJQl3nmhVhOa+hTSoETxAHVzxrkYBZxLjrP9WhgDKLkdS0D7CIdxoZ8VGo/XA==",
+  "dgSpecHash": "REzxCuNlGdMsDDGYhN2YvG+7kNNkKJcolmcyUkXntO4zFGo/ytDHsBT+IXzgVQGbGZMmF2YTdp9osITXND9gmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj",
+  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.core\\1.26.0\\azure.core.1.26.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.data.tables\\12.7.1\\azure.data.tables.12.7.1.nupkg.sha512",

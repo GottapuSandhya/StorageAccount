@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj": {}
+    "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj": {
+    "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj",
         "projectName": "StorageAccount",
-        "projectPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"

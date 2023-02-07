@@ -5,7 +5,7 @@ namespace StorageAccount.Repository
 {
     public class FileStorage
     {
-        public static string connectionString="";
+        public static string connectionString="DefaultEndpointsProtocol=https;AccountName=storagemt;AccountKey=bgeZs0jip4lpO6o/Jb5Cttg2TfWEc8WTfPVF/xHhkEVAvaC2fHfeYigfQ/cbuu00669dSuls02jt+AStJCmGpg==;EndpointSuffix=core.windows.net";
         static ShareServiceClient shareServiceClient=null;
         public static async Task CreateFile(string fileName)
         {
@@ -85,7 +85,7 @@ namespace StorageAccount.Repository
         }
         public static async Task DownloadFile(string directoryName,string fileShareName,string fileName)
         {
-            string path=@"C:\Users\vmadmin\Downloads\StorageAccount\Downloads"+fileName;
+            string path=@"C:\Users\vmadmin\Desktop\StorageAccount\Downloads\"+fileName;
             shareServiceClient=new ShareServiceClient(connectionString);
             var serviceClient=shareServiceClient.GetShareClient(fileShareName);
             var dir=serviceClient.GetDirectoryClient(directoryName);

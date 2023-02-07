@@ -772,11 +772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj",
+      "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj",
       "projectName": "StorageAccount",
-      "projectPath": "c:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\StorageAccount.csproj",
+      "projectPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\StorageAccount.csproj",
       "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\vmadmin\\Desktop\\StorageAccountDemo\\StorageAccount\\obj\\",
+      "outputPath": "C:\\Users\\vmadmin\\Desktop\\StorageAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
